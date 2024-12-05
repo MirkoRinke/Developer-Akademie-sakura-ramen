@@ -7,16 +7,10 @@
 
 Welcome to my first project as part of the Developer Academy! In this project, I created a website for the restaurant Sakura Ramen, which is known for its authentic and freshly prepared ramen dishes.
 
-## 🔗 Links
-
-- [Live Site URL](https://helpful-crostata-57ebca.netlify.app/)
-
-
 ## 🛠️ Built with
 
 - HTML
 - CSS / SCSS
-
 
 ## ⚙️ How to Use
 
