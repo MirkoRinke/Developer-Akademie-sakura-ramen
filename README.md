@@ -26,4 +26,5 @@ Welcome to my first project as part of the Developer Academy! In this project, I
 
 ## ✍️ Author
 
-- Website - [My Github](https://github.com/MirkoRinke)
+ - [Webiste](https://mirkorinke.dev)
+ - [Github](https://github.com/MirkoRinke)
